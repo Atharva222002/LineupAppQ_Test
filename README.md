@@ -12,4 +12,7 @@ Try it out at:  https://atharva222002.github.io/LineupAppQ_Test/
 - Ability to change canvas background to custom selected color
 - Ability to save canvas
 
+Demo:
+![](https://github.com/Atharva222002/LineupAppQ_Test/blob/main/Demo.gif)
+
 **Free Software, Made as a part of interview for Lineup!**
